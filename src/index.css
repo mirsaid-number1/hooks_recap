@@ -1,0 +1,7 @@
+.hooks {
+  display: flex;
+  justify-content: center;
+}
+.container {
+  padding-left: 7px !important;
+}
